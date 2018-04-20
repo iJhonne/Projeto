@@ -4,7 +4,7 @@
 int main(){
 	int matriz[N][N];
 	int i,linha,coluna,impar;
-printf("Soma dos numero impares:\n\n");
+printf("Quantidade de numeros impar:\n\n");
 impar=0;
 for(linha=0;linha<N;linha++)
 for(coluna=0;coluna<N;coluna++){
